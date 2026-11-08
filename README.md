@@ -16,3 +16,8 @@ This is an AI-based e-commerce website developed for a jewellery business. It al
 
 ## Developer
 Abhinand
+
+
+
+Visit our website: https://mantrajewels.in”
+
